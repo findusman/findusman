@@ -7,7 +7,7 @@ Full Stack Developer
 As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
 
 
-* 🖥️  Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/)
+* 🖥️  Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile, <h2 style= "color: blue;">Top Ratted Plus</h2> 
 * ✉️  You can contact me at [contact@findusman.com](mailto:contact@findusman.com)
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating on Interestring Projects
@@ -50,8 +50,10 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/findhusman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/findusman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/find_usman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/findusman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<!--
 ### Badges
 
-<b>My GitHub Stats</b>
+ <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/findusman"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a>
+<a href="http://www.github.com/findusman"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> -->
