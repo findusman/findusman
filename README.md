@@ -7,7 +7,7 @@ Full Stack Developer
 As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
 
 * 🌍  I'm based in Lahore, Pakistan
-* 🖥️  See my portfolio at [Upwork](http://https://www.upwork.com/fl/~01363affe3836d4bdb)
+* 🖥️  See my portfolio at [Upwork](https://www.upwork.com/freelancers/~01363affe3836d4bdb)
 * ✉️  You can contact me at [hafizusmann.12@gmail.com](mailto:hafizusmann.12@gmail.com)
 * 🧠  I'm learning everything - Full Stack Development
 
