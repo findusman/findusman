@@ -3,7 +3,14 @@
     display: inline-block
 }
 
-
+.upwork{
+  margin: 100px 05px;
+}
+.upwork:hover{
+   color: black;
+   background: #000;
+  }
+  
 .fa-fw,
 .fa-li,
 .icon {
