@@ -8,7 +8,7 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 
 
 * 🖥️  Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile, <h2 style= "color: blue;">Top Rated Plus</h2> 
-* ✉️  You can contact me at [contact@findusman.com](mailto:contact@findusman.com)
+* ✉️  You can contact me at [contact@findusman.com](mailto:usman@findusman.me)
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating on Interestring Projects
 
