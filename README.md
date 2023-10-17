@@ -1,5 +1,4 @@
 Hi 👋 My name is Usman Hussain
-==============================
 
 Full Stack Developer
 --------------------
