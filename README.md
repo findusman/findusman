@@ -10,7 +10,8 @@ I help startups build and create fully functional web applications and high-perf
 
 * Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile 
 * You can contact me at [usman@findusman.com](mailto:usman@findusman.me)
-* Checkout my Portfolios [findusman.me](http://https://www.findusman.me) Profile, <h2 style= "color: blue;">Top Rated Plus</h2>
+* Checkout my Portfolios [findusman.me](http://https://www.findusman.me)
+  
 ### Skills
 
 <p align="left">
