@@ -3,14 +3,14 @@ Hi 👋 My name is Usman Hussain
 Full Stack Developer
 --------------------
 
-As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
+Full Stack Developer | React • Node.js • Python • Next.js • AWS/Azure • AI & LLM Integration | UK Based • Available for Global Contracts & Freelance Projects | Building MVPs & Enterprise-Grade Web.
+
+I help startups build and create fully functional web applications and high-performance platforms in under first 2 weeks. As an experienced fullstack developer and system architect, I provide a comprehensive approach to web design, bridging the gap between "just a coder" and a Product Partner. By leveraging an AI workflow, I create high-quality, scalable systems in 1/3 the time of traditional web development—without sacrificing code integrity.
 
 
-* 🖥️  Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile, <h2 style= "color: blue;">Top Rated Plus</h2> 
-* ✉️  You can contact me at [contact@findusman.com](mailto:usman@findusman.me)
-* 🧠  I'm learning Everything
-* 🤝  I'm open to collaborating on Interestring Projects
-
+* Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile, <h2 style= "color: blue;">Top Rated Plus</h2> 
+* You can contact me at [usman@findusman.com](mailto:usman@findusman.me)
+* Checkout my Portfolios [Upwork](http://https://www.findusman.me Profile, <h2 style= "color: blue;">Top Rated Plus</h2>
 ### Skills
 
 <p align="left">
