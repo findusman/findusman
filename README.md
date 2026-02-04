@@ -8,9 +8,9 @@ Full Stack Developer | React • Node.js • Python • Next.js • AWS/Azure �
 I help startups build and create fully functional web applications and high-performance platforms in under first 2 weeks. As an experienced fullstack developer and system architect, I provide a comprehensive approach to web design, bridging the gap between "just a coder" and a Product Partner. By leveraging an AI workflow, I create high-quality, scalable systems in 1/3 the time of traditional web development—without sacrificing code integrity.
 
 
-* Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile, <h2 style= "color: blue;">Top Rated Plus</h2> 
+* Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile 
 * You can contact me at [usman@findusman.com](mailto:usman@findusman.me)
-* Checkout my Portfolios [Upwork](http://https://www.findusman.me Profile, <h2 style= "color: blue;">Top Rated Plus</h2>
+* Checkout my Portfolios [findusman.me](http://https://www.findusman.me) Profile, <h2 style= "color: blue;">Top Rated Plus</h2>
 ### Skills
 
 <p align="left">
