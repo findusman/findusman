@@ -5,7 +5,7 @@ Full Stack Developer
 
 Full Stack Developer | React • Node.js • Python • Next.js • AWS/Azure • AI & LLM Integration | UK Based • Available for Global Contracts & Freelance Projects | Building MVPs & Enterprise-Grade Web.
 
-I help startups build and create fully functional web applications and high-performance platforms in under first 2 weeks. As an experienced fullstack developer and system architect, I provide a comprehensive approach to web design, bridging the gap between "just a coder" and a Product Partner. By leveraging an AI workflow, I create high-quality, scalable systems in 1/3 the time of traditional web development—without sacrificing code integrity.
+I help companies and teams build and create fully functional web applications and high-performance platforms in under first 2 weeks. As an experienced fullstack developer and system architect, I provide a comprehensive approach to web design, bridging the gap between "just a coder" and a Product Partner. By leveraging an AI workflow, I create high-quality, scalable systems in 1/3 the time of traditional web development—without sacrificing code integrity.
 
 
 * Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile 
